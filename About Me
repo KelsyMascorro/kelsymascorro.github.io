@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>My Super Awesome "First" HMTL Page</title>
+    <meta charset="utf-8">
+  </head>
+
+<body>
+<!-- Thisis a page where I describe my qualifications and a bit more about my journey to where I am in my teaching career. -->
+
+  <h1> About Me</h1>
+  <p>Hello! Welcome to my page!</p>
+  
+  <p>I am a current graduate student at <a href="http://https://tamucc.edu/">Texas A&M University-Corpus Christi</a>, where I am pursuing my Masters of Arts in English with a concentration in Writing Studies. I received my Bachelors of Arts in English and Teacher of English to Speakers of Other Languages certification from Texas A&M University-Corpus Christi in the Spring of 2017, and my certification as a Teacher of English for Grades 7-12 from the Texas Education Agency in the summer of 2018. </p>
+
+  <p>When I first began my journey into the Masters program here at TAMUCC, I thought I wanted to pursue a career as an ESL professor, teaching English to international students at various college levels. Once I joined the university's <a href="http://cla.tamucc.edu/english/writing/fywp/index.html">First Year Writing Program</a> as a Graduate Teaching Assistant, however, and began working with students in online spaces, I realized I loved teaching English online that much more.</p>
+  
+  <p>During the Spring of 2019, when faced with the issue of trying to get my online students to collaborate and engage in our digital classroom, I had the choice of either using the rigid structure of the Blackboard shell provided by the university, or I could use software I was more familiar with - <a href="https://gsuite.google.com/">the Google Suite</a>. I chose to use the G Suite because it allowed for more of a flexible and welcoming environment than Blackboard allowed at the time, as well as tools that helped to foster collaboration in a new and engaging way.</p>
+  
+  <p>To this day, I utilize the G Suite's many features in my classroom and, through this blog, hope to showcase the revolutionary work I am doing in the field of online teaching.</p>
+  
+  /p>
+
+    <img src="https://kelsynmascorro.files.wordpress.com/2018/03/big-bend-rock-photo-e1521558770594.jpg" width="375px" height="400px"/>
+
+
+</body>
+
+</html>
