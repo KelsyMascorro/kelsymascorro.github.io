@@ -53,7 +53,22 @@ body {
   background-color: #050505;
   color:#FF0080;
   font-family: 'Georgia', serif;
+  margin: 2em;
+  padding: 0 3em 3em 5em
+  /*Padding starts with the top as "number 1," then goes clockwise from there*/
 }
+
+ul.nav{
+  list-style-type: none;
+}
+
+header {}
+
+main {}
+
+article {}
+
+footer {}
 
 h1, h2, h3, h4, h5, h6{
   font-family: 'Verdana', sans-serif;
