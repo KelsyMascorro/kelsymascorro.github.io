@@ -11,7 +11,30 @@ body {
 }
 
 ul.nav{
+	ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #d0b5e9;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to dark purple on hover */
+li a:hover {
+  background-color: #d0b5e9;
+
 }
 
 p {margin-left: 2em;}
@@ -36,8 +59,8 @@ img {
 header {
 	margin: 2em;
   padding: 4em 4em 4em 4em
-	background-color: #e9bcbc;
-  color: #e9bcbc;
+	background-color: #d0b5e9;
+  color: #d0b5e9;
 
 }
 
