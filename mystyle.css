@@ -6,7 +6,7 @@ body {
   color:#030303;
   font-family: 'Georgia', serif;
   margin: 2em;
-  padding: 0 3em 3em 5em
+  padding: 3em 3em 3em 5em
   /*Padding starts with the top as "number 1," then goes clockwise from there*/
 }
 
@@ -40,8 +40,6 @@ li a:hover {
 
 }
 
-p {margin-left: 2em;}
-
 blockquote{
   text-indent: 5em;
   font-family: 'Georgia', serif;
@@ -53,16 +51,47 @@ blockquote{
   padding-left: .5em;
 }
 
-div.container {
-	margin-left: 1em
-  margin-top: 1em;
-  margin-bottom: 1em;
-  margin-right: 1em;
+.home {
+  width: 40%;
+	height: 40%;
+	float: left;
+	padding-right: 3em;
 }
 
-img {
-  width: 10%
-	height: 10%
+.bigbend {
+  width: 40%;
+	height: 40%;
+	float: left;
+	padding-right: 3em;
+}
+
+.infographic {
+  width: 40%;
+	height: 40%;
+	float: right;
+	padding-left: 3em;
+}
+
+div {
+	padding-left: 5em;
+	padding-top: 5em;
+	padding-right: 2em;
+	padding-bottom: 5em;
+}
+
+.bigbenddiv {
+	padding-left: 0em;
+	padding-top: 0em;
+	padding-right: 0em;
+	padding-bottom: 0em;
+}
+
+.aboutme {
+		padding-left: 0em;
+		padding-top: 0em;
+		padding-right: 0em;
+		padding-bottom: 0em;
+		margin-top: 0em
 }
 
 header {
