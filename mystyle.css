@@ -17,6 +17,9 @@ ul.nav{
   padding: 0;
   overflow: hidden;
   background-color: #d0b5e9;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 li {
