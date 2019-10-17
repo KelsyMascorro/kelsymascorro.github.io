@@ -33,7 +33,13 @@ img {
 	height: 20%
 }
 
-header {}
+header {
+	margin: 2em;
+  padding: 4em 4em 4em 4em
+	background-color: #40afa5;
+  color: #f7fcfb;
+	
+}
 
 main {}
 
