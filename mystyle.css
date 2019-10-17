@@ -20,8 +20,7 @@ ul, ol {margin: 1em;}
 
 blockquote{
   text-indent: 5em;
-  text-shadow: white 2px 5px;
-  font-style: italic;
+  font-family: 'Georgia', serif;
   border-left: .5em solid #8c8281;
   margin-left: 5em
   margin-top: 1em;
