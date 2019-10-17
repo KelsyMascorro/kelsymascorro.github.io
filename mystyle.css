@@ -2,8 +2,8 @@
 /*Begin my own css; Use Hex code for colors: #000000 */
 
 body {
-  background-color: #050505;
-  color:#FF0080;
+  background-color: #fadadd;
+  color:#030303;
   font-family: 'Georgia', serif;
   margin: 2em;
   padding: 0 3em 3em 5em
@@ -43,5 +43,5 @@ footer {}
 
 h1, h2, h3, h4, h5, h6{
   font-family: 'Verdana', sans-serif;
-  color: yellow;
+  color: #7deaf9;
 }
