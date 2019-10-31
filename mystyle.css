@@ -101,6 +101,16 @@ div {
 		margin-top: 0em
 }
 
+.distance {
+width: 20%;
+height: 20%;
+padding-left: 0.5em;
+padding-top: 0.5em;
+padding-right: 0.5em;
+padding-bottom: 0.5em;
+margin-top: 0em
+}
+
 header {
 	margin: 3em;
   padding: 4em 4em 4em 4em;
